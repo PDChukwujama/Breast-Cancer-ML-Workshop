@@ -28,7 +28,7 @@ st.error(
 )
 
 # ── 3. Title and subtitle ─────────────────────────────────────────────────────
-st.title('🏥 Breast Cancer Risk Indicator')
+st.title('🏥 MedTech x CompSci Breast Cancer Risk Indicator')
 st.caption(
     'Educational demonstration · '
     'Wisconsin Breast Cancer Dataset (UCI, 1993) · '
